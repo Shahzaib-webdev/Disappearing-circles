@@ -1,0 +1,29 @@
+#main{
+    width: 1000px;
+    height: 300px;
+}
+
+
+#first-circle{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    display: inline-block;   
+}
+
+#second-circle{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+#third-circle{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    display: inline-block;
+}
